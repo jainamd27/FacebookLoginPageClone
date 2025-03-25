@@ -1,0 +1,23 @@
+{
+  "name": "facebook-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.15",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.15",
+    "vite": "^6.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.15"
+  },
+  "description": ""
+}
